@@ -35,8 +35,8 @@ namespace GetMeOutOfHere
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(@"====================================================
-                                            BUSTED BY THE HEADTEACHER! YOU LOSE!             
-                                ====================================================");
+                                                        YOU LOSE!             
+                                    ====================================================");
                 Console.ResetColor();
             }
             else
@@ -45,7 +45,7 @@ namespace GetMeOutOfHere
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine(@"====================================================
                                             CONGRATULATIONS! YOU ESCAPED!             
-                                ====================================================");
+                                    ====================================================");
                 Console.ResetColor();
             }
             
@@ -81,7 +81,10 @@ namespace GetMeOutOfHere
                 lock (_consoleLock)
                 {
                     Console.Clear();
-                    Console.WriteLine("Time's up! You lose.");
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine(@"====================================================
+                                                            YOU LOSE!             
+                                       ====================================================");
                     Environment.Exit(0);
                 }
             });
