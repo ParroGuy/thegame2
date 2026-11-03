@@ -130,7 +130,7 @@ namespace GetMeOutOfHere
 
             [TEACHER DESK]
           ┌──────────────────┐
-          │    CHAIR   🔑    │
+          │                  │
           └──────────────────┘
 
     [DESK]        [DESK]        [DESK]
@@ -288,8 +288,8 @@ namespace GetMeOutOfHere
 
    [WORK BENCH]            [BLUEPRINT TABLE]
   ┌─────────────┐         ┌─────────────────┐
-  │ 🔨 HAMMER   │         │ 📐 BLUEPRINT    │
-  │ 🪛 SCREW    │         │ 🔋 DRILL        │
+  │    HAMMER   │         │    BLUEPRINT    │
+  │    SCREW    │         │    DRILL        │
   └─────────────┘         └─────────────────┘
 
      DESK          DESK          DESK
@@ -368,7 +368,7 @@ YOU CAN INTERACT WITH THE OBJECTS WITH SQARE BRACKETS AROUND THEM
 ╚══════════════════════════════════════════════════╝
 
    [COMPUTER]          [DESK]           [PYTHON]
-   ┌──────────┐         (o_o)            ~~~~~> 🐍
+   ┌──────────┐         (o_o)            ~~~~~> ~~~~
    └──────────┘
 
                          @ [YOU]

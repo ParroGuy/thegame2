@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {}
   },
@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/parroguy/Documents/Computer Science Homework/The Game/The Game.csproj",
+      "projectUniqueName": "/home/parroguy/Documents/Compsci/The Game/thegame2/The Game.csproj",
       "projectName": "The Game",
-      "projectPath": "/home/parroguy/Documents/Computer Science Homework/The Game/The Game.csproj",
+      "projectPath": "/home/parroguy/Documents/Compsci/The Game/thegame2/The Game.csproj",
       "packagesPath": "/home/parroguy/.nuget/packages/",
-      "outputPath": "/home/parroguy/Documents/Computer Science Homework/The Game/obj/",
+      "outputPath": "/home/parroguy/Documents/Compsci/The Game/thegame2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/parroguy/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
         "net10.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -45,11 +45,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.113/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
