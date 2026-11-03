@@ -12,3 +12,18 @@
 /home/parroguy/Documents/Computer Science Homework/The Game/obj/Release/net10.0/The Game.pdb
 /home/parroguy/Documents/Computer Science Homework/The Game/obj/Release/net10.0/The Game.genruntimeconfig.cache
 /home/parroguy/Documents/Computer Science Homework/The Game/obj/Release/net10.0/ref/The Game.dll
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/The Game
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/The Game.deps.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/The Game.runtimeconfig.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/The Game.dll
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/The Game.pdb
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.AssemblyInfoInputs.cache
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.AssemblyInfo.cs
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.csproj.CoreCompileInputs.cache
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.sourcelink.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.dll
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/refint/The Game.dll
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.pdb
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/The Game.genruntimeconfig.cache
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Release/net10.0/ref/The Game.dll

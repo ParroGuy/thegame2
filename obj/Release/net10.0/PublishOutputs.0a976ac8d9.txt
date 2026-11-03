@@ -1,0 +1,5 @@
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/publish/The Game
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/publish/The Game.dll
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/publish/The Game.deps.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/publish/The Game.runtimeconfig.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Release/net10.0/publish/The Game.pdb

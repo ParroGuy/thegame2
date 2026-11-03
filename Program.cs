@@ -28,6 +28,7 @@ namespace GetMeOutOfHere
 
             Thread timerThread = timer();
             room();
+            hallway();
             teacherBattle();
 
             if (headteacherChance == 0)
@@ -197,9 +198,9 @@ namespace GetMeOutOfHere
                 Dialogue("What is going on with the physics teacher???", "Student", ConsoleColor.Cyan);
                 Console.SetCursorPosition(0, 5);
                 Console.WriteLine(@"
-╔══════════════════════════════════════════════════╗
-║                PHYSICS CLASSROOM                 ║
-╚══════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════╗
+    ║                PHYSICS CLASSROOM                 ║
+    ╚══════════════════════════════════════════════════╝
 
                         [WINDOW]
                      ┌────────────┐
@@ -591,6 +592,82 @@ YOU CAN INTERACT WITH THE OBJECTS WITH SQARE BRACKETS AROUND THEM
             Dialogue("You have defeated the subject teacher, but the headteacher is here!", "Headteacher", ConsoleColor.Red);
             Dialogue("You are not going anywhere!", "Headteacher", ConsoleColor.Red);
             Dialogue("Thanos Snaps YOU out of existence!", "ACTION", ConsoleColor.Magenta);
+        }
+
+        static void hallway()
+        {
+            Dialogue("You enter the hallway", "YOU", ConsoleColor.Green);
+            Console.WriteLine(@"
+        =========================================================
+                            SCHOOL HALLWAY
+        =========================================================
+
+             __________                     __________
+            |          |                   |          |
+            |          |                   |          |
+            |__________|                   |__________|
+
+                |                             |
+                |                             |
+
+             __________                     __________
+            |          |                   |          |
+            |          |                   |          |
+            |__________|                   |__________|
+
+                |                             |
+                |                             |
+
+            =============================================
+            =                                           =
+            =                                           =
+            =                  @ YOU                    =
+            =                                           =
+            =                                           =
+            =============================================
+
+                |                             |
+                |                             |
+    
+             __________                     __________
+            |          |                   |          |
+            |          |                   |          |
+            |__________|                   |__________|
+
+                         _______________
+                        |               |
+                        |      EXIT     |
+                        |_______________|
+
+        =========================================================
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ");
+
         }
 
         static void Dialogue(string diamsg, string name, ConsoleColor colour)
