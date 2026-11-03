@@ -1,0 +1,3 @@
+/home/parroguy/Documents/Computer Science Homework/The Game/bin/Debug/net48/publish/The Game.exe
+/home/parroguy/Documents/Computer Science Homework/The Game/bin/Debug/net48/publish/The Game.exe.config
+/home/parroguy/Documents/Computer Science Homework/The Game/bin/Debug/net48/publish/The Game.pdb
