@@ -11,6 +11,7 @@ namespace GetMeOutOfHere
 
         static void Main(string[] args)
         {
+           
             Console.Clear();
             typewriter("Welcome to Get Me Out of Here! \n", ConsoleColor.Green);
             difficulty();

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Wl9DzOxhn5U=",
+  "dgSpecHash": "woq9LSiqVcY=",
   "success": true,
   "projectFilePath": "/home/parroguy/Documents/Compsci/The Game/thegame2/The Game.csproj",
   "expectedPackageFiles": [
-    "/home/parroguy/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.13/microsoft.netcore.app.host.win-x64.10.0.13.nupkg.sha512"
+    "/home/parroguy/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/parroguy/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
   ],
   "logs": []
 }

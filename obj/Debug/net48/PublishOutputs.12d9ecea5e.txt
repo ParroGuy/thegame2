@@ -1,0 +1,3 @@
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/publish/The Game.exe
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/publish/The Game.exe.config
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/publish/The Game.pdb

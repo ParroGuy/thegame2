@@ -14,3 +14,6 @@
 /home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.sourcelink.json
 /home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.exe
 /home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.pdb
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/The Game.exe.config
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/The Game.exe
+/home/parroguy/Documents/Compsci/The Game/thegame2/bin/Debug/net48/The Game.pdb
