@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = The_Game
-build_property.ProjectDir = /home/parroguy/Documents/Computer Science Homework/The Game/
+build_property.ProjectDir = /home/parroguy/Documents/Compsci/The Game/thegame2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

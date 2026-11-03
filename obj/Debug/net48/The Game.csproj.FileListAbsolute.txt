@@ -7,3 +7,10 @@
 /home/parroguy/Documents/Computer Science Homework/The Game/bin/Debug/net48/The Game.pdb
 /home/parroguy/Documents/Computer Science Homework/The Game/obj/Debug/net48/The Game.exe
 /home/parroguy/Documents/Computer Science Homework/The Game/obj/Debug/net48/The Game.pdb
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.AssemblyInfoInputs.cache
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.AssemblyInfo.cs
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.csproj.CoreCompileInputs.cache
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.sourcelink.json
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.exe
+/home/parroguy/Documents/Compsci/The Game/thegame2/obj/Debug/net48/The Game.pdb
